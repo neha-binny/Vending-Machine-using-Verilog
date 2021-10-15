@@ -1,1 +1,2 @@
 # Vending-Machine-using-Verilog
+In this project, I designed a Vending FSM and then implemented it using Verilog. The vending machine designed accepts money input in any sequence, delivers the product when the required price has reached, and also returns the change. It also provides an additional facility for canceling the transaction by pressing a push button. The functionality of the vending machine is tested by simulation using GTK Wave.
